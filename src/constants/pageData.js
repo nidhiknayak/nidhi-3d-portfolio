@@ -23,30 +23,21 @@ export const EXPERIENCE = {
     width: 1024,
   },
   items: [
-    {
-      url: 'websites-preview/optic-logo.png',
-      websiteURL: 'https://optic.id/',
-    },
-    {
-      url: 'websites-preview/good-dollar.jpeg',
-      websiteURL: 'https://www.gooddollar.org/',
-    },
-    {
-      url: 'websites-preview/cs2.png',
-      websiteURL:
-        'https://633880ea5adf252405f33fce--capable-buttercream-d8879f.netlify.app/cs.html', //optional open url in new tab
-    },
-    {
-      url: 'websites-preview/knack-page.png',
-      websiteURL:
-        'https://633880ea5adf252405f33fce--capable-buttercream-d8879f.netlify.app/knack.html',
-    },
-    {
-      url: 'websites-preview/magic.png',
-      websiteURL:
-        'https://633880ea5adf252405f33fce--capable-buttercream-d8879f.netlify.app/magic-app.html',
-    },
-  ],
+  {
+    url: 'websites-preview/ample.png',
+    websiteURL: 'https://drive.google.com/file/d/1-yn88ai5dh50FdhQxGakN_KD67nwTYAn/view?usp=sharing',
+  },
+  {
+    url: 'websites-preview/soft.png',
+    websiteURL: 'https://drive.google.com/file/d/1-yn88ai5dh50FdhQxGakN_KD67nwTYAn/view?usp=sharing',
+  },
+  {
+    url: 'websites-preview/mvj.png',
+    websiteURL: 'https://drive.google.com/file/d/1-yn88ai5dh50FdhQxGakN_KD67nwTYAn/view?usp=sharing',
+  },
+]
+
+
 };
 
 export const SKILLS_LIST = {
@@ -56,7 +47,7 @@ export const SKILLS_LIST = {
   topPadding: 0.33,
   scale: 0.15,
   items: [
-    { url: 'icons/react-native.png', websiteURL: null },
+    { url: 'icons/java.png', websiteURL: null },
     { url: 'icons/react-logo.png', websiteURL: null },
     { url: 'icons/ts-logo.png', websiteURL: null },
     { url: 'icons/js-logo.png', websiteURL: null },
@@ -65,9 +56,9 @@ export const SKILLS_LIST = {
     { url: 'icons/node-js-logo.png', websiteURL: null },
     { url: 'icons/python-logo.png', websiteURL: null },
     { url: 'icons/three-js-logo.png', websiteURL: null },
-    { url: 'icons/jest-logo.png', websiteURL: null },
-    { url: 'icons/graph-ql-logo.png', websiteURL: null },
-    { url: 'icons/vim-logo.png', websiteURL: null },
+    { url: 'icons/tail.png', websiteURL: null },
+    { url: 'icons/sql.png', websiteURL: null },
+    { url: 'icons/pyth.png', websiteURL: null },
   ],
 };
 
