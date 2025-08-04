@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nidhi-3d-portfolio/static/css/main.8acdb0c0.css",
+    "main.js": "/nidhi-3d-portfolio/static/js/main.5e99e598.js",
+    "static/js/27.3845a59d.chunk.js": "/nidhi-3d-portfolio/static/js/27.3845a59d.chunk.js",
+    "static/media/alpha-map.png": "/nidhi-3d-portfolio/static/media/alpha-map.d0ab86baef65d5137043.png",
+    "static/media/cube.glb": "/nidhi-3d-portfolio/static/media/cube.2cd1d417c0994b805dc7.glb",
+    "index.html": "/nidhi-3d-portfolio/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.8acdb0c0.css",
+    "static/js/main.5e99e598.js"
+  ]
+}
